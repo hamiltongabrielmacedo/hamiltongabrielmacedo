@@ -4,6 +4,8 @@
 
 <a href="https://github.com/hamiltongabriel">
   <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltongabriel" />
+</a>
+<a href="https://github.com/hamiltongabrielmacedo">
   <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltongabrielmacedo" />
 </a>
 
